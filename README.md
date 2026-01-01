@@ -29,6 +29,9 @@ This snippet turns the container of widget areas (`#dashboard-widgets`) into a C
 - ✅ Keeps **native widget behavior** inside each drop zone (sorting/dragging, full-width widgets)
 - ✅ Hides “Drag boxes here” when a drop zone contains widgets (uses `:has()` when supported, with JS fallback)
 
+  <img width="1805" height="1155" alt="image" src="https://github.com/user-attachments/assets/5da96849-33f2-42d6-89e6-69c755aeb0ac" />
+
+
 ---
 
 ## Limitations
